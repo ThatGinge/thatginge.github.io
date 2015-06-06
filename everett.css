@@ -13,10 +13,11 @@ h1 {
 
 #mainContent {
 	margin-left: 150px;
+	margin-right: 150px;
 }
 
 #navBar {
-	background-color: #0B3861;
+	background-color: #251CD2;
 	padding-top: 75px;
 	padding-right: 15px;
 	margin-left: -15px;
